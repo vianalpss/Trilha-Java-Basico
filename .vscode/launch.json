@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaBanco.ContaTerminal",
+            "projectName": "Trilha-Java-Basico_4a4b840d"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "Trilha-Java-Basico_4a4b840d"
+        },
+        {
+            "type": "java",
+            "name": "Problem",
+            "request": "launch",
+            "mainClass": "Problem",
+            "projectName": "Trilha-Java-Basico_4a4b840d"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "Usuario",
+            "projectName": "Trilha-Java-Basico_4a4b840d"
+        },
+        {
+            "type": "java",
+            "name": "VariaveisTipos",
+            "request": "launch",
+            "mainClass": "VariaveisTipos",
+            "projectName": "Trilha-Java-Basico_4a4b840d"
+        }
+    ]
+}
